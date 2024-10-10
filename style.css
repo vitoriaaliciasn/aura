@@ -1,0 +1,22 @@
+:root{
+    --cor1: #213A5C; 
+    --cor2: #D9D4CE;
+    --cor3: #0E2038;
+}
+div{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: var(--cor1);
+}.lado{
+    width: 500px;
+}
+body{
+    background-color: #213A5C;
+    height: 100vh;
+    width: 100vw;
+
+}*{
+    padding: 0px;
+    margin: 0px;
+}
